@@ -1,6 +1,6 @@
-# UYAP Dosya Indirme Araci - Indirmeler
+# UYAP Dosya İndirme Aracı
 
-Bu depo yalnizca indirilebilir paketleri barindirir; kaynak kod ozel bir depodadir.
+Bu depo indirilebilir paketleri barındırmaktadır.
 
 ## Indirme
 
